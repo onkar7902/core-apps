@@ -6,7 +6,7 @@
 2. [Architecture](#architecture)
 3. [Prerequisites](#prerequisites)
 4. [AWS Control Tower Overview](#aws-control-tower-overview)
-5. [Implementation Guide](#implementation Guide)
+5. [Implementation Guide](#implementation-guide)
 6. [How Each Log Input is Collected and Sent to Elastic](#how-each-log-input-is-collected-and-sent-to-elastic)
 7. [Deployment Flow](#deployment-flow)
 8. [Technical details](#technical-details)
